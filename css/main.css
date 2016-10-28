@@ -46,9 +46,7 @@ img {
 }
 
 .icon-group-body {
-  display: inline-block;
   width: calc(100% - 64px - .8em);
-
   vertical-align: middle;
 }
 
